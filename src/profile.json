@@ -1,0 +1,12 @@
+{
+  "desired position": "Analista de Dados",
+  "main_stack": ["SQL","Python"],
+  "secondary_stack": ["Power BI",""],
+  "ideal_seniority": ["Pleno", "Sênior"],
+  "ideal_model": ["Remoto"],
+  "ideal_location": ["Brasil"],
+  "accepted_language": ["Português", "Inglês"],
+  "minimun_salary": "R$ 13.000",
+  "priority_words": ["SQL", "python", "remoto", "vaga definitiva", "clt"],
+  "discard_words": ["presencial", "php", "estágio", "vaga temporária", "híbrido"]
+}
